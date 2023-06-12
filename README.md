@@ -1,4 +1,4 @@
-
+[Magnet](magnet:?xt=urn:btih:5bd0aa89667860e68b31a585dc6e7a2bfc811702&amp;dn=Yomichan%20Japanese%20Local%20Audio%20-%20JPod%2C%20NHK%2C%20SMK%2C%20Forvo%20Select%20Users%20%5BMP3%5D&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce) 
 # Local Audio Server for Yomichan
 
 This [Anki add-on](https://ankiweb.net/shared/info/1045800357)
